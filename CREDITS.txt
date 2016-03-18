@@ -1,0 +1,5 @@
+Launcher icon and ic_recording icon were made with picture from icones.pro
+=>  designed by New Mooon (http://icones.pro/gtk-medias-enregistrer-2-image-png.html)
+ic_recording_stop icon were made with picture from icones.pro
+=> designed by David Vignoni (http://icones.pro/en/drive-stop-5-png-image.html)
+Help icon was generated with Android icon generator (https://romannurik.github.io/AndroidAssetStudio/icons-actionbar.htm) and ic_action_action_help icon.

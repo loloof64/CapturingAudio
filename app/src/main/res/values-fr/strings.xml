@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="recording_preparation_failed">Echec lors de la préparation de la capture !</string>
+    <string name="could_not_create_temporary_file">Echec lors de la création du fichier temporaire !</string>
+    <string name="renaming_temporary_file">Renommant le fichier temporaire</string>
+    <string name="defining_file_name_label">Nom fichier (sans extension)</string>
+    <string name="OK">OK</string>
+    <string name="renamed_file">Fichier renommé</string>
+    <string name="file_renaming_failure">Echec lors renommage fichier !</string>
+    <string name="must_stop_recording_before">Veuillez stopper l\'enregistrement d\'abord si vous voulez quitter.</string>
+    <string name="help_title">Aide</string>
+    <string name="help_content">Capturing Audio\n\nSimple enregistreur audio sur carte SD (dans le dossier CapturingAudio)\n\nLaurent Bernabé (2016).\n\nCredits\n\n
+    L\'icone de lancement et l\'icone d\'enregistrement ont été faites avec une icone du site icones.pro, dessinée par New Mooon (http://icones.pro/gtk-medias-enregistrer-2-image-png.html)\n
+    L\'icone de fin d\'enregistrement a été faite avec une image du site icones.pro, dessinée par David Vignoni (http://icones.pro/en/drive-stop-5-png-image.html)\n
+    L\'icone d\'aide a été faite avec le générateur d\'icones pour Android (https://romannurik.github.io/AndroidAssetStudio/icons-actionbar.htm) et l\'icone ic_action_action_help.
+    </string>
+    <string name="app_name">Capturing Audio</string>
+    <string name="timer_text">00:00:00</string>
+</resources>

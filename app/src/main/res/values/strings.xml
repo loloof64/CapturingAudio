@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Capturing Audio</string>
+    <string name="timer_text">00:00:00</string>
+    <string name="recording_preparation_failed">Failed to prepare recording !</string>
+    <string name="could_not_create_temporary_file">Could not create temporary file !</string>
+    <string name="renaming_temporary_file">Renaming temporary file</string>
+    <string name="defining_file_name_label">File name (without extension)</string>
+    <string name="OK">OK</string>
+    <string name="renamed_file">Renamed file</string>
+    <string name="file_renaming_failure">Failed to rename file !</string>
+    <string name="must_stop_recording_before">Please stop recording before if you want to quit.</string>
+    <string name="help_title">Help</string>
+    <string name="help_content">Capturing Audio\n\nSimple audio recorder on Sd Card (in folder Capturing Audio)\n\nLaurent Bernabé (2016).\n\nCredits\n\n
+    Launcher icon and recording icon were made with picture from icones.pro, designed by New Mooon (http://icones.pro/gtk-medias-enregistrer-2-image-png.html)\n
+    Stop recording icon were made with picture from icones.pro, designed by David Vignoni (http://icones.pro/en/drive-stop-5-png-image.html)\n
+    Help icon was generated with Android icon generator (https://romannurik.github.io/AndroidAssetStudio/icons-actionbar.htm) and ic_action_action_help icon.
+    </string>
+</resources>
