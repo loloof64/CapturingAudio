@@ -77,17 +77,11 @@ public class RecorderFragment extends Fragment {
 
     private String getExternalStoragePath() {
         String externalStorage = System.getenv("EXTERNAL_STORAGE");
-        String secondaryStorage = System.getenv("SECONDARY_STORAGE");
-        String emulatedStorage = System.getenv("EMULATED_STORAGE_TARGET");
         String defaultExternalStorage = "/storage/sdcard0";
 
         if (externalStorage == null) externalStorage = "";
-        if (secondaryStorage == null) secondaryStorage = "";
-        if (emulatedStorage == null) emulatedStorage = "";
 
-        if ( ! secondaryStorage.isEmpty() ) return secondaryStorage;
         if ( ! externalStorage.isEmpty() ) return externalStorage;
-        if ( ! emulatedStorage.isEmpty() ) return emulatedStorage;
         return defaultExternalStorage;
     }
 

@@ -116,7 +116,7 @@ public class MainActivity extends AppCompatActivity implements
 
             ScrollView scrollingView = new ScrollView(dialogBuilder.getContext());
             scrollingView.setLayoutParams(new ViewGroup.LayoutParams(ViewGroup.LayoutParams.MATCH_PARENT, ViewGroup.LayoutParams.MATCH_PARENT));
-            TextView textView = new TextView(dialogBuilder.getContext());
+            EditText textView = new EditText(dialogBuilder.getContext());
             textView.setLayoutParams(new ScrollView.LayoutParams(ViewGroup.LayoutParams.MATCH_PARENT, ViewGroup.LayoutParams.MATCH_PARENT));
             textView.setText(Arrays.toString(e.getStackTrace()));
 
